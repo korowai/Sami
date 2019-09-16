@@ -1,5 +1,9 @@
-composer.phar
+/composer-setup.php
+/composer.lock
+*.phar
 cache
 build
 vendor
 /.phpunit
+/.phpunit.result.cache
+/phpunit
